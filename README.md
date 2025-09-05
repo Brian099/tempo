@@ -85,6 +85,6 @@ If you would like to sponsor the project and show your support, you can make a d
     <img src="mockup/dark/8_screenshot.png" width=200>
 </p>
 
-## License
+## License《》
 
 Tempo is released under the [GNU General Public License v3.0](LICENSE). Feel free to modify, distribute, and use the app in accordance with the terms of the license. Contributions to the project are also welcome. 
